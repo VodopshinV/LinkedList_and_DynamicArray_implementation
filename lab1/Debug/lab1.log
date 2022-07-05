@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\вертолетик\Numfy\асд\lab1\lab1\main.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab1\lab1\main.cpp(93,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> D:\вертолетик\Numfy\асд\lab1\Debug\lab1.exe
